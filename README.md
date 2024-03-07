@@ -18,4 +18,6 @@ Momth serves as a digital ally for mothers striving to maintain a harmonious equ
 
 ## Programming
 
-The programming language used for this challenge was Swift. As we developed the app, we utilized SwiftUI for the front-end and also implemented "Codable Extension," an extension created by Ricardo, to save the information provided to the app by the users.
+The programming language used for this challenge was Swift. As we developed the app, we utilized SwiftUI for the front-end and also implemented "Codable Extension," an extension created by Ricardo Venieris, to save the information provided to the app by the users.
+
+For the code to work, is important to use Codable Extenstion, you can find it here: https://github.com/rvenieris/CodableExtensions
